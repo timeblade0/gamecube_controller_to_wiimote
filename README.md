@@ -5,7 +5,7 @@ Description:
 Guide I made on instructables.com to connect a Gamecube controller to a Wiimote.  
 Runs on an Atmega168 micro chip.  
 
-https://www.instructables.com/Gamecube-Controller-to-Wiimote/
+https://www.instructables.com/Gamecube-Controller-to-Wiimote/  
 
 ![Screenshot](https://github.com/timeblade0/gamecube_controller_to_wiimote/blob/main/5.JPG)
 
